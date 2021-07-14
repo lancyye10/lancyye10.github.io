@@ -16,7 +16,7 @@
             color:red;
         }
     </style>
-        <h1>Moon travel！！！！！！！</h1>
+        <h1>Moon travel !</h1>
         
         <h2 class="intro">About the moon</h2>
         
